@@ -96,5 +96,4 @@ dependencies:
   - zlib=1.2.11=h7b6447c_3
   - pip:
     - ipytest==0.4.0
-prefix: /homeb/mm9684/anaconda3/envs/env-Bfield
 
